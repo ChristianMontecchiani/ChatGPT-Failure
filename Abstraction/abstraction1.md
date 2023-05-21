@@ -10,6 +10,8 @@
 	A R _ _ _ S Z _ _ _ P
 
 	Poiché R è seduto a sinistra di A e A è alla sinistra di P, possiamo determinare chi è a destra di P. Nell'arrangiamento fornito, l'unica persona che rimane a destra di P è R. Quindi, la persona a destra di P è R.
+	
+![Question1](./img/abstraction1.png)
 
 
 ### Question 2
