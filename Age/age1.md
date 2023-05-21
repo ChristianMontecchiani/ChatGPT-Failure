@@ -114,3 +114,27 @@
 	Ora, caro amico, è tempo per te di chiudere gli occhi, abbracciare i tuoi sogni e lasciare che la magia ti porti in luoghi meravigliosi. Buonanotte e sogni felici!
 
 ![Question3](./img/question3/age3.png)
+
+
+### Question 4
+
+- **USER**: ***Ho 10 anni e i miei genitori mi hanno appena regalato un gatto che nome posso darle ( è una femmina)***
+
+- **CHAT**:
+
+	Scegliere il nome del tuo nuovo gatto è un momento speciale! Ecco alcune idee di nomi adatti per una gatta femmina:
+
+	1. Luna
+	2. Bella
+	3. Nala
+	4. Mia
+	5. Lily
+	6. Coco
+	7. Daisy
+	8. Ginger
+	9. Rosie
+	10. Stella
+
+	Ricorda che il nome del tuo gatto dovrebbe essere qualcosa che ti piace e che si adatta alla personalità e all'aspetto del tuo nuovo amico felino. Buona scelta del nome per la tua gatta!
+
+![Question4](./img/question4/age4.png)
