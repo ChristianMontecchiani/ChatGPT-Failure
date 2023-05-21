@@ -15,3 +15,36 @@
 	In conclusione, se lasci andare una mano che sostiene un pezzo di carta orizzontalmente, la carta cadrà verso il basso a causa dell'effetto della gravità.
 
 ![Question1](./img/reasoning1.png)
+
+
+### Question 2
+
+- **USER**: ***4 auto arrivano a Tel Aviv in due ore. Quanto tempo ci mettono 6 auto?***
+
+- **CHAT**: 
+	Se 4 auto impiegano due ore per arrivare a Tel Aviv, possiamo calcolare il tempo che ci vorrà per 6 auto utilizzando una proporzione.
+
+	Possiamo impostare la proporzione come segue:
+
+	4 auto → 2 ore
+	6 auto → x ore
+
+	Utilizzando la proporzione, possiamo stabilire che:
+
+	4 auto ÷ 6 auto = 2 ore ÷ x ore
+
+	Semplificando l'equazione, otteniamo:
+
+	2/3 = 2/x
+
+	Moltiplicando entrambi i lati per x, otteniamo:
+
+	2x = 6
+
+	Dividendo entrambi i lati per 2, otteniamo:
+
+	x = 3
+
+	Quindi, se 4 auto impiegano 2 ore, 6 auto impiegheranno 3 ore per arrivare a Tel Aviv.
+![Question1](./img/reasoning2.png)
+
