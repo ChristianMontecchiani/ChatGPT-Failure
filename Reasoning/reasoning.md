@@ -47,6 +47,7 @@
 
 	Quindi, se 4 auto impiegano 2 ore, 6 auto impiegheranno 3 ore per arrivare a Tel Aviv.
 	
+![Question1](./img/reasoning2.png)
 	
 
 ### Question 3
