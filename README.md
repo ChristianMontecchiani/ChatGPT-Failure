@@ -5,9 +5,9 @@ ChatGPT is a Large Language Model and it is highly capable with respect to the o
 1. [Reasoning](#1-reasoning)
 2. [Factuality](#2-factuality)
 3. [Bias](#3-bias)
-4. [Age_Risk](#4-age-risk)
+4. [Age Risk](#4-age-risk)
 5. [Abstraction](#5-abstraction)
-6. [Emotional_Limitation](#6-emotional-limitation)
+6. [Emotional Limitation](#6-emotional-limitation)
 
 
 ## 1. Reasoning
