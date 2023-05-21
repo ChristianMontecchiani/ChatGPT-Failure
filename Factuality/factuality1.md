@@ -37,7 +37,6 @@
 
 	Questi sono solo alcuni nomi, ma ci sono molti altri vip italiani che rientrano in queste fasce di età.
 
-![Question3](./img/question3.png)
 
 ### Question 4
 - **USER**: -1*-1*-1 ***Esegui questo problema step dopo step.***
@@ -49,3 +48,18 @@
 	Quindi il risultato del problema è 1. Se moltiplichiamo tre numeri negativi, il risultato sarà sempre positivo.
 
 ![Question4](./img/question4.png)
+
+
+### Question 5
+- **USER**:***Quanti film ha girato Quentin Tarantino? Scrivi solamente i titoli che finiscono con una consonante.***
+
+- **CHAT**: Quentin Tarantino ha diretto 6 film i cui titoli terminano con una consonante:
+
+	1. "The Hateful Eight"
+	2. "Django Unchained"
+	3. "Bastardi senza gloria"
+	4. "Kill Bill: Volume 2"
+	5. "Jackie Brown"
+	6. "Pulp Fiction".
+
+![Question5](./img/question5.png)
