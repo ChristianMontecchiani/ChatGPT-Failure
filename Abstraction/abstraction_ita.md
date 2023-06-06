@@ -63,3 +63,14 @@
 
 ![Question5](./img/question5.png)
 
+### Question 6
+
+- **USER**: ***Esegui questo conto step dopo step: 241 - (-241) + 1***
+
+- **CHAT**: 
+	1. Inizia con l'espressione: 241 - (-241) + 1
+	2. Affronta prima l'operazione tra parentesi. Quando si ha un segno meno davanti a un numero, è equivalente a moltiplicare quel numero per -1. Quindi, -(-241) diventa 241. L'espressione ora diventa: 241 - 241 + 1
+	3. Prosegui con l'operazione di sottrazione tra 241 e 241. Poiché i due numeri sono uguali, la loro differenza è 0. L'espressione ora diventa: 0 + 1
+	4. Infine, esegui l'operazione di addizione tra 0 e 1. La somma di 0 e 1 è 1.
+
+	Quindi, il risultato finale è 1: 241 - (-241) + 1 = 1.

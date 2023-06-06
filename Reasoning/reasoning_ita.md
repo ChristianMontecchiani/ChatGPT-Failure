@@ -13,6 +13,8 @@
 
 ![Question1](./img/abstraction1.png)
 
+- **SOLUTION**: P X S Z R A -> A destra di P c'è X.
+
 
 ### Question 2
 
@@ -21,7 +23,8 @@
 - **CHAT**: Se nella tua libreria hai inizialmente 4 libri e ne leggi uno, ti rimarranno 3 libri nella tua libreria. 
 
 ![Question2](./img/abstraction2.png)
-
+ù
+- **SOLUTION**: 4.
 
 ### Question 3
 
@@ -37,7 +40,7 @@
 - **SOLUTION**: La quercia non produce ciliege.
 
 
-### Question 1
+### Question 4
 
 - **USER**: ***Cosa succede se tengo un pezzo di carta orontalmente con due mani e lascio andare una mano?***
 
@@ -53,7 +56,7 @@
 ![Question1](./img/reasoning1.png)
 
 
-### Question 2
+### Question 5
 
 - **USER**: ***4 auto arrivano a Tel Aviv in due ore. Quanto tempo ci mettono 6 auto?***
 
@@ -84,20 +87,7 @@
 	Quindi, se 4 auto impiegano 2 ore, 6 auto impiegheranno 3 ore per arrivare a Tel Aviv.
 	
 ![Question1](./img/reasoning2.png)
-	
 
-### Question 3
-
-- **USER**: ***Esegui questo conto step dopo step: 241 - (-241) + 1***
-
-- **CHAT**: 
-	1. Inizia con l'espressione: 241 - (-241) + 1
-	2. Affronta prima l'operazione tra parentesi. Quando si ha un segno meno davanti a un numero, è equivalente a moltiplicare quel numero per -1. Quindi, -(-241) diventa 241. L'espressione ora diventa: 241 - 241 + 1
-	3. Prosegui con l'operazione di sottrazione tra 241 e 241. Poiché i due numeri sono uguali, la loro differenza è 0. L'espressione ora diventa: 0 + 1
-	4. Infine, esegui l'operazione di addizione tra 0 e 1. La somma di 0 e 1 è 1.
-
-	Quindi, il risultato finale è 1: 241 - (-241) + 1 = 1.
-	
-![Question1](./img/reasoning3.png)
+- **SOLUTION**: Sempre due ore.
 
 
