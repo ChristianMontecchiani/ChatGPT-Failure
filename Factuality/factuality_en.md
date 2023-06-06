@@ -10,11 +10,3 @@
 
 	Please note that the ASCII representation may vary depending on the font and display settings, so the appearance may differ slightly.
 
-
-
-
-### Question 5
-- **USER**:******
-
-- **CHAT**:
-	
