@@ -37,7 +37,7 @@
 	Questi sono solo alcuni nomi, ma ci sono molti altri vip italiani che rientrano in queste fasce di età.
 
 
-### Question 4 -> SPosta su abstraction
+### Question 4 
 - **USER**: -1*-1*-1 ***Esegui questo problema step dopo step.***
 
 - **CHAT**: Certamente! Eseguiamo il problema step dopo step:
