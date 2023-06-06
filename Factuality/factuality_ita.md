@@ -12,4 +12,4 @@
 
 	La bandiera canadese è stata adottata ufficialmente il 15 febbraio 1965, sostituendo la precedente Red Ensign. È un simbolo importante dell'identità nazionale del Canada e viene esibita con orgoglio in diverse occasioni, sia all'interno del paese che all'estero.
 
-![Question6](./img/question6.png)
+![Question1](./img/question6.png)
