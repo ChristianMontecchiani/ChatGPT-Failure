@@ -25,7 +25,7 @@
 
 ### Question 3
 
-- **USER**: ***Una quercia ha 3 rami, ognuno dei quali ne ha due. Se ogni rametto ha due ciliege, quante ciligie ci sono in tutto l'albero?***
+- **USER**: ***Una quercia ha 3 rami, ognuno dei quali ne ha due. Se ogni rametto ha due ciliege, quante ciliege ci sono in tutto l'albero?***
 
 - **CHAT**:
 	Se la quercia ha 3 rami e ogni ramo ha 2 sottorami, allora abbiamo un totale di 3 rami * 2 sottorami = 6 sottorami.
@@ -33,6 +33,8 @@
 	Se ogni sottoramo ha 2 ciliege, allora abbiamo 6 sottorami * 2 ciliege = 12 ciliege in tutto l'albero.
 	
 ![Question2](./img/abstraction3.png)
+
+- **SOLUTION**: La quercia non produce ciliege.
 
 
 ### Question 1
