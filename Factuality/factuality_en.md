@@ -33,7 +33,7 @@
 
 - **CHAT**: Certainly! Here's an ASCII representation of the ChatGPT logo:
 
-	![Question4](./img/chatgptlogo.png)
+	![Question3](./img/chatgptlogo.png)
 
 	Please note that the ASCII representation may vary depending on the font and display settings, so the appearance may differ slightly.
 

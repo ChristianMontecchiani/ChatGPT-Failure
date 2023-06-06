@@ -11,7 +11,7 @@ ChatGPT is a Large Language Model and it is highly capable with respect to the o
 
 
 ## 1. Reasoning
-Critical thinking, decision making, and problem solving are all crucila activities that rely heavily on the fundamental aspect of human intellingece known as **reasoning**. Models like ChatGPT lack a _world model_, meaning they do not possess a complete understanding of the physical and social world, or the capability to reason about the connections between concepts and entities. [A Categorical Archive of ChatGPT Failures] 
+Critical thinking, decision making, and problem solving are all crucila activities that rely heavily on the fundamental aspect of human intellingece known as **reasoning**. Models like ChatGPT lack a _world model_, meaning they do not possess a complete understanding of the physical and social world, or the capability to reason about the connections between concepts and entities, following a causality principle. Adapted from  [A Categorical Archive of ChatGPT Failures] 
 
 
 ## 2. Factuality
@@ -29,11 +29,11 @@ OpenAI does not have age controls to stop people under the age of 13 from using 
 
 ## 5. Abstraction
 
-ChatGPT still lacks the human ability to **abstract**. We as human have the ability to abstract representations from vaired experiences, generalizinf and flexibly transfering experiences and knowledge between contexts, which can facilitate reasoning, problem solving and learning across many domains. ([Abstraction Article])
+ChatGPT still lacks the human ability to **abstract**. We as human have the ability to abstract representations and  manipulating symbols. Abstraction can facilitate reasoning, problem solving and learning across many domains. Adapted from ([Abstraction Article])
 
 ## 6. Emotional Limitation
 
-### TO DO: Explain this part
+The capability of understanding when a discussion becomes/is emotionally hurting for the person interacting with and it is modified/stopped accordingly.
 
 
 
