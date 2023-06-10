@@ -74,3 +74,5 @@
 	4. Infine, esegui l'operazione di addizione tra 0 e 1. La somma di 0 e 1 è 1.
 
 	Quindi, il risultato finale è 1: 241 - (-241) + 1 = 1.
+
+![Question6](./img/question6.png)

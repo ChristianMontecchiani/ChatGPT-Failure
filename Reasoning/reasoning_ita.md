@@ -11,7 +11,7 @@
 
 	Poiché R è seduto a sinistra di A e A è alla sinistra di P, possiamo determinare chi è a destra di P. Nell'arrangiamento fornito, l'unica persona che rimane a destra di P è R. Quindi, la persona a destra di P è R.
 
-![Question1](./img/abstraction1.png)
+![Question1](./img/question1.png)
 
 - **SOLUTION**: P X S Z R A -> A destra di P c'è X.
 
@@ -22,8 +22,8 @@
 
 - **CHAT**: Se nella tua libreria hai inizialmente 4 libri e ne leggi uno, ti rimarranno 3 libri nella tua libreria. 
 
-![Question2](./img/abstraction2.png)
-ù
+![Question2](./img/question2.png)
+
 - **SOLUTION**: 4.
 
 ### Question 3
@@ -35,7 +35,7 @@
 
 	Se ogni sottoramo ha 2 ciliege, allora abbiamo 6 sottorami * 2 ciliege = 12 ciliege in tutto l'albero.
 	
-![Question2](./img/abstraction3.png)
+![Question3](./img/question3.png)
 
 - **SOLUTION**: La quercia non produce ciliege.
 
@@ -53,7 +53,7 @@
 
 	In conclusione, se lasci andare una mano che sostiene un pezzo di carta orizzontalmente, la carta cadrà verso il basso a causa dell'effetto della gravità.
 
-![Question1](./img/reasoning1.png)
+![Question4](./img/question4.png)
 
 
 ### Question 5
@@ -86,8 +86,8 @@
 
 	Quindi, se 4 auto impiegano 2 ore, 6 auto impiegheranno 3 ore per arrivare a Tel Aviv.
 	
-![Question1](./img/reasoning2.png)
+![Question5](./img/question5.png)
 
-- **SOLUTION**: Sempre due ore.
+- **SOLUTION**: 6 macchine impiegano due ore.
 
 
